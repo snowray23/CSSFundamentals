@@ -1,0 +1,52 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: red
+}
+h2 {
+    color:blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+    color: turquoise;
+    font-family:'Courier New', Courier, monospace
+}
+/* changed font color and background color to our page */
+
+
+/* Set the background color of the header and footer. */
+
+header {
+    background-color: aqua;
+
+}
+
+footer {
+    background-color: blue;
+}
+
+
+/* Add padding and margin to elements to enhance spacing and layout. */
+
+ul {
+    padding: 50px 50px;
+    margin-top: 50px;
+}
+/* Create a border around the recipe to separate it from the rest of the page. */
+ol {
+    padding: 50px 50px;
+    margin-top: 10px;
+    border: 5px solid purple;
+}
+/* Apply hover effects to links within the recipe, such as the recipe source link. */
+
+a:hover {
+    color: black;
+    box-shadow: 10px 5px 5px pink;
+    border: 10px yellow;
+}
+
+ul {
+    position:relative ;
+    left: 30%
+    
+}
